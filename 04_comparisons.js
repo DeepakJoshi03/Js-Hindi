@@ -24,6 +24,6 @@
 
 // ===(Strict Check) It not only checks the values but also check its data type
 //Example
-console.log("2"===2);//False
+console.log("2"===4);//False
 console.log("2"==2);//True
 

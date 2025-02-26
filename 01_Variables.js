@@ -2,7 +2,7 @@ const accountId = 13345532
 let accountEmail= "herodeepakjoshi0312@gmail.com"
 //No scope problem in let
 var accPassword = "12345"
-accCity= "jaipur"
+accCity= "Dehradun"
 let accountstate; //value will be undefined
 // accountId= 2 //not allowed
 console.log(accountId);

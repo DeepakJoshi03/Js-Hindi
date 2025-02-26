@@ -25,7 +25,7 @@ console.log(id===id2);//False
 const heros=["Deepak","Shaktiman","Padman"] //array
 //Example of Object
 let myobj={
-    name:"Deepak",
+    name:"Dj",
     age:22,
 }
 //Example of Function
