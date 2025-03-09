@@ -11,6 +11,6 @@ Because of issue i block scope and functional scope
 */
 accountEmail="ac@.com"
 accPassword="7463728"
-accCity="Dehradun"
+accCity="Roorkee"
 console.table([accountEmail,accPassword,accCity,accountstate]); //another method to print as many as variable and constant at once
 
